@@ -11,5 +11,5 @@ end
 
 #yield goes here
 my_collect(array) do |name|
-  name.split(" ,").first
+  name.split(" ").first
 end
