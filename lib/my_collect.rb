@@ -10,4 +10,4 @@ def my_collect(array)
 end
 
 #yield goes here
-my_collect(array) { |name| name.split(" ").first}
+my_collect(array) {|name| name.split(" ").first}
